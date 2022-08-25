@@ -3,6 +3,7 @@ from pytube import YouTube
 from pytube import Playlist
 import time
 
+#*******Video+Audio Download**************#
 def video_download(link):
     yt = YouTube(link)
     print(f'Video Name: {yt.title}')
@@ -20,7 +21,7 @@ def video_download(link):
     time.sleep(3)
     
 
-#**************Audio Donload**************#
+#**************Audio Download**************#
 
 def audio_download(link):
     yt = YouTube(link)
