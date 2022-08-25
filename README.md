@@ -8,9 +8,11 @@ As of now you can't choose a specific folder to download/save the files. They wi
 
 ## Instructions
 navigate to 'dist' folder and open the executable file 'YTDownloader.exe'
+
 dist->YTDownloader.exe
 
 open the executable file.
+
 
 ### Video Downloading(With audio)
 >press '1'
@@ -20,8 +22,11 @@ open the executable file.
 >choose and enter the option for desired quality of video(Video and audio codec info is also provided)
 
 BOOM✨🎇 Downloading!
+
 wait for a few mins/secs, depends on your internet connection speed.
+
 DONE!
+
 
 ### Audio ONLY downloading
 Can download only in 2 formats, mp4 & webm
@@ -33,8 +38,11 @@ Can download only in 2 formats, mp4 & webm
 >
 
 BOOM✨🎇 Downloading!
+
 wait for a few mins/secs, depends on your internet connection speed.
+
 DONE!
+
 
 ### Complete Playlist downloading
 You have to manually enter the choice for each video quality and format
@@ -45,11 +53,15 @@ You have to manually enter the choice for each video quality and format
 >choose and enter the option for desired quality of video for that particular video
 
 BOOM✨🎇 Downloading!
+
 wait for a few mins/secs, depends on your internet connection speed.
+
 DONE!
 
 >Now choose and enter the option for desired quality of video for the next video
 
 BOOM✨🎇 Downloading!
+
 wait for a few mins/secs, depends on your internet connection speed.
+
 DONE!
