@@ -1,10 +1,10 @@
 # Youtube Video/Audio Downloader
 
-Hello!
+Hey Guys!
+This is a youtube video/audio downloader using python.
 
-## Sub header
+## Instructions
+follow the steps:
+dist->YTDownloader.exe
 
-Koni chi wa
-
-
-hello again ))
+open the executable file.
